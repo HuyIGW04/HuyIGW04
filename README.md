@@ -5,8 +5,8 @@
 
 
 <pre>
-QUANG HUY TRAN
-Student at Ho Chi Minh University of Technology (HCMUT), VNU-HCM
+QUANG-HUY TRAN
+Student at Ho Chi Minh City University of Technology (HCMUT), VNU-HCM
 Computer Science, Faculty of Computer Science and Engineering
 <a href="tel:+84369461344">(+84) 369 461 344</a>
 LinkedIn: <a href="https://linkedin.com/in/quanghuy-tran/">linkedin.com/in/quanghuy-tran/</a>
